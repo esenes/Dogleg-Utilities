@@ -15,3 +15,7 @@ Takes number of pulses and of BDs and generate the historic plot of the BDRs and
 Just take the number of BDs and the number of pulses of every run.
 
 ![](https://github.com/esenes/Dogleg-Utilities/blob/master/for_reference/BDRplots.jpg)
+
+### 3) Cut the events in the runs: **manage_BDS_ts.m**
+
+used to exclude events from the timestamp list.
