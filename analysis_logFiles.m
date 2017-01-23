@@ -18,13 +18,13 @@ addpath(genpath(dirpath))
 dir_data = '/Users/esenes/swap_log_files/';
 dir_report = '/Users/esenes/swap_out_pulse_counting/';
 
-startDate = '20160412';
-endDate = '20160415';
-startTime = '19:00:00';
-endTime = '10:00:00';
+startDate = '20161210';
+endDate = '20161212';
+startTime = '09:20:00';
+endTime = '08:40:00';
 
 %name for report file
-runName = 'UnLoaded43MW_3';
+runName = 'Loaded38MW_16';
 %%%%%%%%%%%%%%%%%%%%%%% End of user input %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
