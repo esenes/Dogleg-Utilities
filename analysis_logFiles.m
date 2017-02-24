@@ -30,6 +30,7 @@ runName = 'Loaded38MW_16';
 
 tic
 [filesList] = Log_files2Analyse(dir_data,startDate,startTime,endDate,endTime);
+cc
 [logFile_struct,tdms_struct] = loadSaveLogTDMSFiles(dir_data,filesList,startDate,startTime,endDate,endTime);
 toc
 
